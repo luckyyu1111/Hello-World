@@ -10,5 +10,5 @@ Time & Time::operator=(Time & s)
 
 int add(int& x)
 {
-	//return x + 5;
+	return x + 5;
 }
